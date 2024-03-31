@@ -5,7 +5,7 @@ To install Wasp on Linux / OSX / WSL (Windows), open your terminal and run:
 curl -sSL https://get.wasp-lang.dev/installer.sh | sh
 ```
 
-ℹ️ Wasp requires Node.js and will warn you if it is missing: check below for more details.
+ℹ️ Wasp requires Node.js v18.18.0 and will warn you if it is missing.
 
 Then, create a new app by running:
 ```
